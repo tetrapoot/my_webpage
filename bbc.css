@@ -7,8 +7,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Srisakdi', cursive;
-    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .topbar-section{
     float: left;
@@ -31,7 +30,7 @@ body{
 }
 
 #signin-text{
-    font-size: 20px;
+    font-size: 15px;
     margin-left: 15px;
     float: left;
     margin-top: 10px;
@@ -56,4 +55,18 @@ body{
     font-size: 90%;
     padding: 13px 15px 0 15px;
     height:27px;
+}
+.more-img{
+    margin-top: 15px;
+    width: 15px;
+}
+.clear{
+    clear: both;
+}
+#sch-txt{
+    margin-left: 10px;
+}
+#btn{
+    height: 25px;
+    background: #7fbfff;
 }
